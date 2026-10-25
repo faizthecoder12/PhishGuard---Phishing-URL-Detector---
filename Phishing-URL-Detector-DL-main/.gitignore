@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+ENV/
+.env
+backend/.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# IDE configs (optional but recommended)
+.vscode/
+.idea/
+
+backend/app/client_secret.json
